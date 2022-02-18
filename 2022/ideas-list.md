@@ -1,4 +1,4 @@
-# GSoC 2022 Project Ideas
+# ⚡️ GSoC 2022 Project Ideas ⚡️
 
 ---
 
@@ -26,7 +26,7 @@ You can start by going through the issues labelled as [‘help wanted'](https://
 
 Please find project ideas listed below! 👇🏻
 
-## Project Idea I
+## Project Idea I - Add multi-language Zarr implementation tests
 
 > Abstract  🗂
 
@@ -80,7 +80,7 @@ Medium
 4. https://github.com/zarr-developers/zarr_implementations/pull/23
 5. https://github.com/zarr-developers/zarr_implementations/pull/10
 
-## Project Idea II
+## Project Idea II - Build registry of Zarr codecs
 
 > Abstract  🗂
 
@@ -131,7 +131,7 @@ Easy
 3. https://support.hdfgroup.org/services/filters.html
 4. https://github.com/cgohlke/imagecodecs
 
-## Project Idea III
+## Project Idea III - Benchmark Zarr implementations
 
 > Abstract 🗂
 
@@ -179,7 +179,7 @@ Low
 4. https://allencellmodeling.github.io/aicsimageio/_benchmarks/index.html
 5. https://github.com/zarr-developers/zarr-python/issues/519
 
-## Project Idea IV
+## Project Idea IV - Standardizing .zmetadata
 
 > Abstract 🗂
 
@@ -229,11 +229,9 @@ Medium
 4. https://github.com/zarr-developers/zarr-specs/issues/121
 5. https://docs.openmicroscopy.org/bio-formats/6.8.1/supported-formats.html
 
-## Project Idea V
+## Project Idea V - Awkward Arrays
 
 > Abstract 🗂
-
--Awkward Arrays-
 
 We’re thinking of having Awkward Arrays support in Zarr. Previously, there has been only discussion about this. You can check them out [here](https://github.com/zarr-developers/community/issues/29).
 
