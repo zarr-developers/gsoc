@@ -7,7 +7,7 @@ applications from under-represented groups in tech.
 
 There have been changes in the program by Google. To know more, please read this: https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html
 
-Since this is the first time Zarr is participating in Google Summer of Code, we’re excited and are looking forward to welcoming every one of you to the community! We recommend you to go through the getting started guide and get yourselves acquainted with the project before you submit you start working on your proposals.
+Since this is the first time Zarr is participating in Google Summer of Code, we’re excited and are looking forward to welcoming every one of you to the community! We recommend you go through the getting started guide and get yourselves acquainted with the project before you start working on your proposals.
 
 ## About Zarr
 
@@ -20,7 +20,7 @@ This guide illustrates a few steps that’ll help you get acquainted with Zarr:
 - Check out the [contributing guide](https://zarr.readthedocs.io/en/stable/contributing.html) and set up the development environment.
 - Check out the Zarr tutorials [here](https://zarr.readthedocs.io/en/stable/tutorial.html) and run some examples.
 - Check out the [docs](https://zarr.readthedocs.io/en/stable/genindex.html) for detailed info.
-- Additionally, you go through the Zarr Storage Specification V2 [here](https://zarr.readthedocs.io/en/stable/spec/v2.html). This document provides a technical specification of the protocol and format used for storing Zarr arrays.
+- Additionally, go through the [Zarr Storage Specification V2](https://zarr.readthedocs.io/en/stable/spec/v2.html). This document provides a technical specification of the protocol and format used for storing Zarr arrays.
 
 You can start by going through the issues labelled as [‘help wanted'](https://github.com/zarr-developers/zarr-python/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen) and submit a PR.
 
@@ -84,7 +84,7 @@ Medium
 
 > Abstract  🗂
 
-Zarr is a chunked compressed format for the storage of N-dimensional arrays like those created by NumPy. Each compression algorithm used by Zarr is assigned an identifier by the [numcodes](https://github.com/zarr-developers/numcodecs) library. In order to make these identifiers useful in other programming languages, #278 requires a registry to be defined that is machine-readable from multiple programming languages (C, Java, Javascript, etc.).
+Zarr is a chunked compressed format for the storage of N-dimensional arrays like those created by NumPy. Each compression algorithm used by Zarr is assigned an identifier by the [numcodecs](https://github.com/zarr-developers/numcodecs) library. In order to make these identifiers useful in other programming languages, [#278](https://github.com/zarr-developers/numcodecs/issues/278) requires a registry to be defined that is machine-readable from multiple programming languages (C, Java, Javascript, etc.).
 
 > Current State 👀
 
@@ -92,7 +92,7 @@ Need to start the project from scratch. Discussions related to this project are 
 
 > Tasks 📝
 
-1. Research and compare existing lists of compression filters (e.g. from HDF5 and imagecodecs).
+1. Research and compare existing lists of compression filters (e.g. from HDF5 and [imagecodecs](https://github.com/cgohlke/imagecodecs)).
 2. Document all of the current codecs and their identifiers from the research in an issue.
 3. Propose a format for the registry in an issue for community review.
 4. Create and publish the registry, both in a machine-readable as well as human-friendly form.
