@@ -52,6 +52,11 @@ We’d recommend the contributor get in touch with the mentor for this project b
 
 Add all the tests which would cover all the features from existing [spec](https://zarr.readthedocs.io/en/stable/spec/v2.html) and also are of importance according to maintainers.
 
+> Expected Outcome 🔖
+
+As the Zarr ecosystem grows, this project will ensure testing that all implementations produce compatible and robust data. Also, this project aims to identify if/any
+shortcomings in the several implementations, report and fix them.
+
 > Prerequisites 👍🏻
 
 Familiarity with testing, implementations’ programming language & Zarr.
@@ -104,6 +109,13 @@ After the above-mentioned tasks are done we expect a page on the website which s
 
 Write tests that show which codecs from each implementation are supported by other implementations and display a matrix of the results.
 
+> Expected Outcome 🔖
+
+- This project will give the contributor insight into low-level details for several file formats and compression techniques as well as the importance of standardisation for
+keeping readable.
+- The registry build by contributor will serve as a critical bridge between several communities for different programming language like Python, C, Java as well as multiple
+file formats like Zarr, NetCDF, HDF5 etc.
+
 > Prerequisites 👍🏻
 
 Familiarity with Python, HTML & static website generators like Jekyll. 
@@ -150,6 +162,11 @@ Need to start the project from scratch. Discussion related to project are [here]
 > Extended Tasks 📝
 
 A further stretch goal would be to compare the same operations using HDF5 or NumPy files (.npy) as described in [#519](https://github.com/zarr-developers/zarr-python/issues/519).
+
+> Expected Outcome 🔖
+
+- This project will allow the contributor to learn the basics of Zarr format and APIs as well as experiment with benchmarking.
+- The community will benefit from a clear, visual representation of Zarr’s speed overtime which will identify areas for further optimisation. 
 
 > Prerequisites 👍🏻
 
@@ -200,6 +217,14 @@ Need to start the project from scratch. Discussion related to project are [here]
 > Extended Tasks 📝
 
 We aim to have .zmetadata in Python implementation but an extended goal could be to implement this in other implementations of Zarr too.
+
+> Expected Outcome 🔖
+
+- This project will help explicitly enumerate all of the relevant Zarr metadata objects (.zarray, .zattrs, .zgroup) within a directory which would eliminate the need to
+explicitly ‘list’ the store.
+
+- Also, it’ll duplicates the contents of those files within a nested JSON structure reducing the number of distinct read operations user needs to open a dataset. This is
+would help greatly for high-latency stores.
 
 > Prerequisites 👍🏻
 
@@ -259,6 +284,15 @@ Need to start the project from scratch. Discussion related to project are [here]
 > Extended Tasks 📝
 
 None
+
+> Expected Outcome 🔖
+
+- Awkward Arrays opens the possibility of storing new data types in Zarr which would expand the user and community reach of the project.
+- We expect from contributor, a prototype PR which could be used an initial point for development of ‘Awkward Arrays’.
+
+> Prerequisites 👍🏻
+
+Familiarity with Python, NumPy, JSON and Awkward Arrays. Having some experience with Zarr is a plus.
 
 > Project Length ⏰
 
