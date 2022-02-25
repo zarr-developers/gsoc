@@ -54,8 +54,8 @@ Add all the tests which would cover all the features from existing [spec](https:
 
 > Expected Outcome 🔖
 
-As the Zarr ecosystem grows, this project will ensure testing that all implementations produce compatible and robust data. Also, this project aims to identify if/any
-shortcomings in the several implementations, report and fix them.
+As the Zarr ecosystem grows, this project will verify that all implementations produce compatible and robust data.
+Also, this project aims to identify if there are any shortcomings in implementations, then report and fix them.
 
 > Prerequisites 👍🏻
 
@@ -112,8 +112,8 @@ Write tests that show which codecs from each implementation are supported by oth
 > Expected Outcome 🔖
 
 - This project will give the contributor insight into low-level details for several file formats and compression techniques as well as the importance of standardisation for
-keeping readable.
-- The registry build by contributor will serve as a critical bridge between several communities for different programming language like Python, C, Java as well as multiple
+keeping data readable.
+- The registry built by the contributor will serve as a critical bridge between several communities for different programming language like Python, C, Java as well as multiple
 file formats like Zarr, NetCDF, HDF5 etc.
 
 > Prerequisites 👍🏻
@@ -165,7 +165,7 @@ A further stretch goal would be to compare the same operations using HDF5 or Num
 
 > Expected Outcome 🔖
 
-- This project will allow the contributor to learn the basics of Zarr format and APIs as well as experiment with benchmarking.
+- This project will allow the contributor to learn the basics of the Zarr format and APIs as well as experiment with benchmarking.
 - The community will benefit from a clear, visual representation of Zarr’s speed overtime which will identify areas for further optimisation. 
 
 > Prerequisites 👍🏻
@@ -223,8 +223,8 @@ We aim to have .zmetadata in Python implementation but an extended goal could be
 - This project will help explicitly enumerate all of the relevant Zarr metadata objects (.zarray, .zattrs, .zgroup) within a directory which would eliminate the need to
 explicitly ‘list’ the store.
 
-- Also, it’ll duplicates the contents of those files within a nested JSON structure reducing the number of distinct read operations user needs to open a dataset. This is
-would help greatly for high-latency stores.
+- Also, it collects the contents of those files within a nested JSON structure reducing the number of distinct read operations a user needs to open a dataset which
+improves performance for high-latency stores.
 
 > Prerequisites 👍🏻
 
@@ -287,8 +287,8 @@ None
 
 > Expected Outcome 🔖
 
-- Awkward Arrays opens the possibility of storing new data types in Zarr which would expand the user and community reach of the project.
-- We expect from contributor, a prototype PR which could be used an initial point for development of ‘Awkward Arrays’.
+- Awkward Arrays open the possibility of storing new data types in Zarr which would expand the user and community reach of the project.
+- We expect from the contributor a prototype PR which could be used as an initial point for development of an ‘Awkward Arrays’ specification.
 
 > Prerequisites 👍🏻
 
