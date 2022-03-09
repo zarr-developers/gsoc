@@ -308,7 +308,7 @@ High
 
 > Potential Mentors 😇
 
-[Josh Moore](https://github.com/joshmoore) & [Martin Durant](https://github.com/martindurant)
+[Josh Moore](https://github.com/joshmoore), [Martin Durant](https://github.com/martindurant) & [Jim Pivarski](https://github.com/jpivarski)
 
 > Related Links 🔗
 
