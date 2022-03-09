@@ -308,7 +308,7 @@ High
 
 > Potential Mentors 😇
 
-[Josh Moore](https://github.com/joshmoore)
+[Josh Moore](https://github.com/joshmoore) & [Martin Durant](https://github.com/martindurant)
 
 > Related Links 🔗
 
