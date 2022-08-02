@@ -1,0 +1,1 @@
+## Progress and updates for the project [Building Codec Registry](https://summerofcode.withgoogle.com/programs/2022/projects/g4IPN5HL) by [Shivank Chaudhary](https://github.com/alt-shivam) for Google Summer of Code 2022
