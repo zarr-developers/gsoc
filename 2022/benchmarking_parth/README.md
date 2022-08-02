@@ -1,0 +1,1 @@
+## Progress and updates for the project [Benchmarking Zarr Implementations](https://summerofcode.withgoogle.com/programs/2022/projects/qa93Xk9L) by [Parth Tripathi](https://github.com/parthxtripathi/) for Google Summer of Code 2022
