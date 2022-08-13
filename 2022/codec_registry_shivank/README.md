@@ -42,29 +42,52 @@ Project Idea: Zarr is a format for compressed N-Dimensional arrays and uses many
 * Created an initial version of Research file on Codecs.
 * Created a Pull Request for [Pre-commit configuration](https://github.com/zarr-developers/zarr-python/pull/1015)
 
-## Week 1
-* 
+## Week 1 & 2
+* Added following new codecs.
+```
+PackBits
+Pickle
+Quantize
+Shuffle
+ZFPY
+Astype
+Bitround
+JSON
+```
+* Documented Codec informations in Research file.
+* Created a Pull Request [Link](https://github.com/zarr-developers/zarr-python/pull/1016)
 
-## Week 1
+## Week 3 & 4
+* Created a Github Repo to keep registry files. [Link](https://github.com/Alt-Shivam/Codecs-Registry)
+* Created a **csv** file for Registry.
+* Added ImageCodecs.
+```
+AEC
+APNG
+AVIF
+Brotli
+Brunsli
+```
+and there documentation in research file.
+* Created a Pull Request. [Link](https://github.com/zarr-developers/zarr-python/pull/1047)
 
-## Week 1
+## Week 5 & 6
+* Created a Github-Pages website to show Codec Registry. [Link](https://alt-shivam.github.io/Codecs-Registry/)
+* Shifted Codec research file from docs to .md.
+* Created a saperate page to show the research file. [Link](https://alt-shivam.github.io/Codecs-Registry/Others/Research.html)
+* Added Basic Information on CodecRegistry website.
 
-## Week 1
+# Mid-Term Evaluations. :tada:
 
-## Week 1
+## Week 7 & 8
+* Added codecIDs to the codecs as per [NumCodecs.](https://github.com/zarr-developers/numcodecs/tree/main/numcodecs)
+* Created a new page to show the procedure to create a request to add a new Codec. [link](https://alt-shivam.github.io/Codecs-Registry/Others/AddNewCodec.html)
+* Removed other codecs from registry as suggested by mentors. 
+* Created a new page to keep other codecs saperate. [Link](https://alt-shivam.github.io/Codecs-Registry/Others/OtherCodecs.html)
+* Defined a CodecID Naming Convention for codecs without codecIDs. [Link](https://alt-shivam.github.io/Codecs-Registry/Others/CodecID_Naming_Convention.html)
 
-## Week 1
+## Week 9 & 10
 
-## Week 1
+## Week 11 & 12
 
-## Week 1
-
-## Week 1
-
-## Week 1
-
-## Week 1
-
-## Week 1
-
-## Week 1
+# Final Evaluations. :tada:
