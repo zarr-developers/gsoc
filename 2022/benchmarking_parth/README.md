@@ -13,3 +13,11 @@
 ## Project Information:
 - **Project Idea:** Zarr is a format for the storage of chunked, compressed, N-dimensional arrays that is inspired by HDF5, h5py and bcolz and depends on NumPy. This project works on the implementation of benchmarking in Zarr using Airspeed Velocity(ASV) in order to catch any changes that introduce a performance regression.
 - **Project Length:** 175 hours
+
+## Related Links:
+1. [Complete Project Guide](https://summerofcode.withgoogle.com/programs/2022/projects/qa93Xk9L)
+2. [Project HackMD](https://hackmd.io/TfAoFELyRMapjQqo3t5XnQ?view)
+3. [Guide to work with Zarr-ASV](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg)
+4. [Zarr Documentation](https://zarr.readthedocs.io/en/stable/)
+5. [ASV Documentation](https://asv.readthedocs.io/en/stable/)
+ 
