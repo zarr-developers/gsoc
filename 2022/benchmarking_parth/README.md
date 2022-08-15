@@ -25,3 +25,6 @@
 
 # GSoC Journey:
 ## Community Bonding Period: 
+- In the community bonding period, I interacted with the mentors and got to know about the whole Zarr community.
+- We as a team discussed how effective benchmarks could be and told my plan to execute them.
+
