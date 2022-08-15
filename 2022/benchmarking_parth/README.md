@@ -2,9 +2,9 @@
 
 ## About Me
 
-Name: Parth Tripathi
-Gmail: [parthxtripathi@gmail.com](parthxtripathi@gmail.com)
-Github: [parthxtripathi](https://github.com/parthxtripathi)
-LinkedIn: [Parth Tripathi](https://www.linkedin.com/in/parth-tripathi-689506202/)
-Medium: [parthxtripathi](https://medium.com/@parthxtripathi)
-I'm a 3rd-year undergraduate student pursuing a major in Information Technology and Mathematical Innovations at Cluster Innovation Centre, University Of Delhi, India.
+- Name: Parth Tripathi
+- Gmail: [parthxtripathi@gmail.com](parthxtripathi@gmail.com)
+- Github: [parthxtripathi](https://github.com/parthxtripathi)
+- LinkedIn: [Parth Tripathi](https://www.linkedin.com/in/parth-tripathi-689506202/)
+- Medium: [parthxtripathi](https://medium.com/@parthxtripathi)
+- I'm a 3rd-year undergraduate student pursuing a major in Information Technology and Mathematical Innovations at Cluster Innovation Centre, University Of Delhi, India.
