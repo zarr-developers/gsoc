@@ -22,3 +22,6 @@
 5. [Zarr Documentation](https://zarr.readthedocs.io/en/stable/)
 6. [ASV Documentation](https://asv.readthedocs.io/en/stable/)
  
+
+# GSoC Journey:
+## Community Bonding Period: 
