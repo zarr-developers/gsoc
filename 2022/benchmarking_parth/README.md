@@ -15,7 +15,7 @@
 - **Project Length:** 175 hours
 
 ## Related Links:
-1. [Complete Project Guide](https://summerofcode.withgoogle.com/programs/2022/projects/qa93Xk9L)
+1. [Complete Project Idea](https://summerofcode.withgoogle.com/programs/2022/projects/qa93Xk9L)
 2. [Project HackMD](https://hackmd.io/TfAoFELyRMapjQqo3t5XnQ?view)
 3. [Guide to work with Zarr-ASV](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg)
 4. [Zarr Documentation](https://zarr.readthedocs.io/en/stable/)
