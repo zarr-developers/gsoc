@@ -16,8 +16,9 @@
 
 ## Related Links:
 1. [Complete Project Idea](https://summerofcode.withgoogle.com/programs/2022/projects/qa93Xk9L)
-2. [Project HackMD](https://hackmd.io/TfAoFELyRMapjQqo3t5XnQ?view)
-3. [Guide to work with Zarr-ASV](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg)
-4. [Zarr Documentation](https://zarr.readthedocs.io/en/stable/)
-5. [ASV Documentation](https://asv.readthedocs.io/en/stable/)
+2. [Blog](https://medium.com/@parthxtripathi/pre-gsoc-journey-9a6a580b9014)
+3. [Project HackMD](https://hackmd.io/TfAoFELyRMapjQqo3t5XnQ?view)
+4. [Guide to work with Zarr-ASV](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg)
+5. [Zarr Documentation](https://zarr.readthedocs.io/en/stable/)
+6. [ASV Documentation](https://asv.readthedocs.io/en/stable/)
  
