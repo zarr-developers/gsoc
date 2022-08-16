@@ -34,4 +34,5 @@
 - Worked on ASV & started creating the asv.conf.json file for the benchmarking suite.
 
 ## Week 2: 
-- 
+-  Completed the asv.conf.json file.
+- Started developing the benchmarks for the functions `save_array` , `save_group` , `save` and `copy` in the convenience module.
