@@ -24,6 +24,7 @@
  
 
 # GSoC Journey:
+## Phase-1
 ## Community Bonding Period: 
 - In the community bonding period, I interacted with the mentors and got to know about the whole Zarr community.
 - We as a team discussed how effective benchmarks could be and told my plan to execute them.
@@ -39,9 +40,19 @@
 
 ## Week 3: 
 - Benchmarks for the `save_array` , `save_group` , `save` and `copy` failed.
-- Started developing the benchmarks for the `load` , `open` , `copy_store` and `copy_all` in the convenience module. 
+- Started developing benchmarks for the functions `load` , `open` , `copy_store` and `copy_all` in the convenience module. 
 - Changed the asv.conf.json file dependencies. 
+- Published a blog.
 
 ## Week 4:
 - Benchmarks for the convenience failed.
-- After discussion with the mentors we started with 
+- After discussion with the mentors we started with the creation module.
+- Started developing benchmarks for the functions `create`, `empty`, `full`, `zeros`, `ones`, `open_array` and `array`in the creation module. 
+
+## Week 5: 
+- The creation module benchmarks were developed.
+- Graphs/Regression list were obtained. 
+- Examined the graphs with the mentors. 
+- Got inputs for the betterment of the graphs and the regressions list.
+
+## Evaluation-1 (July 25-July 29)
