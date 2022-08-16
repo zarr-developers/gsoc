@@ -41,3 +41,6 @@
 - Benchmarks for the `save_array` , `save_group` , `save` and `copy` failed.
 - Started developing the benchmarks for the `load` , `open` , `copy_store` and `copy_all` in the convenience module. 
 - Changed the asv.conf.json file dependencies. 
+
+## Week 4:
+- 
