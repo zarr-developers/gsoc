@@ -27,9 +27,10 @@ Project Idea: Zarr is a format for compressed N-Dimensional arrays and uses many
 4) https://github.com/cgohlke/imagecodecs
 
 # Project Weekly Updates:
+Project Progress and Information: [Link](https://hackmd.io/@uTe8Vo8gSYeCbwHsQI2Z2Q/SypXtPRD9)
 
 ## Pre-GSoC Work
-* Created a Research file.
+* Created a Research file. [Link]()https://hackmd.io/bJ19oZGxS7-_4yuoNY4qXw
 * Documented several codecs into this format.
 ```
 * Blosc
@@ -56,10 +57,11 @@ JSON
 ```
 * Documented Codec informations in Research file.
 * Created a Pull Request [Link](https://github.com/zarr-developers/zarr-python/pull/1016)
+* Created this HackMD for community to track project progress. [link](https://hackmd.io/@uTe8Vo8gSYeCbwHsQI2Z2Q/SypXtPRD9)
 
 ## Week 3 & 4
 * Created a Github Repo to keep registry files. [Link](https://github.com/Alt-Shivam/Codecs-Registry)
-* Created a **csv** file for Registry.
+* Created a **csv** file for Registry. [Link](https://github.com/Alt-Shivam/Codecs-Registry/blob/main/Registry.csv)
 * Added ImageCodecs.
 ```
 AEC
@@ -78,6 +80,11 @@ and there documentation in research file.
 * Added Basic Information on CodecRegistry website.
 
 # Mid-Term Evaluations. :tada:
+**Montors Review:**  
+  
+![image](https://user-images.githubusercontent.com/81817735/184945777-26f1ed64-c30a-45ed-ad96-d421641d4481.png)
+
+
 
 ## Week 7 & 8
 * Added codecIDs to the codecs as per [NumCodecs.](https://github.com/zarr-developers/numcodecs/tree/main/numcodecs)
