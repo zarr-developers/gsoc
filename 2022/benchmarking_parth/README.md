@@ -43,4 +43,5 @@
 - Changed the asv.conf.json file dependencies. 
 
 ## Week 4:
-- 
+- Benchmarks for the convenience failed.
+- After discussion with the mentors we started with 
