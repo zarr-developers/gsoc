@@ -55,5 +55,4 @@
 - Examined the graphs with the mentors. 
 - Got inputs for the betterment of the graphs and the regressions list.
 
-## Evaluation-1 (July 25-July 29) 
-Status: Passed.
+## Evaluation-1 (July 25-July 29) : Passed
