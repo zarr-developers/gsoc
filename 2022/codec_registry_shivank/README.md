@@ -30,7 +30,7 @@ Project Idea: Zarr is a format for compressed N-Dimensional arrays and uses many
 Project Progress and Information: [Link](https://hackmd.io/@uTe8Vo8gSYeCbwHsQI2Z2Q/SypXtPRD9)
 
 ## Pre-GSoC Work
-* Created a Research file. [Link]()https://hackmd.io/bJ19oZGxS7-_4yuoNY4qXw
+* Created a Research file. [Link](https://hackmd.io/bJ19oZGxS7-_4yuoNY4qXw)
 * Documented several codecs into this format.
 ```
 * Blosc
