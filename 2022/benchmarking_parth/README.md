@@ -60,3 +60,10 @@
 ## Phase-2
 
 ## Week 6:
+- 
+
+## Week-7: 
+- Wrote the [complete guide](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg) on how to work with asv in Zarr. 
+- 
+
+## Week 8:
