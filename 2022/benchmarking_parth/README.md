@@ -28,3 +28,7 @@
 - In the community bonding period, I interacted with the mentors and got to know about the whole Zarr community.
 - We as a team discussed how effective benchmarks could be and told my plan to execute them.
 - Learned how ASV works and went through the code base of Zarr.
+
+## Week 1:
+- Explored the Zarr repository.
+- Worked on ASV & started creating the asv.conf.json file for the benchmarking suite.
