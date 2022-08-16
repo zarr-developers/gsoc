@@ -60,10 +60,12 @@
 ## Phase-2
 
 ## Week 6:
-- 
+- Change in the asv.conf.json file with dependencies. Removed all other dependencies and ran the asv just with Zarr as a dependencies. 
+- Obtained the graphs and regression list just with zarr as a dependency. 
 
 ## Week-7: 
-- Wrote the [complete guide](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg) on how to work with asv in Zarr. 
-- 
+- Wrote the [complete guide](https://hackmd.io/uNr_pyaCRiyjBmmoDjvtHg) to work with asv in Zarr. 
+- Obatined new grpahs with control of the every dependency in zarr.  
 
 ## Week 8:
+- Need to run some specific major zarr releases.
