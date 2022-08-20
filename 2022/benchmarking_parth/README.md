@@ -68,4 +68,4 @@
 - Obatined new grpahs with control of the every dependency in zarr.  
 
 ## Week 8:
-- Need to run some specific major zarr releases.
+- Testing of Zarr's major release is going on.
