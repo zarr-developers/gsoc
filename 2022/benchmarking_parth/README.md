@@ -56,6 +56,7 @@
 - Got inputs for the betterment of the graphs and the regressions list.
 
 ## Evaluation-1 (July 25-July 29) : Passed
+Mentor's Review: ![](https://i.imgur.com/JTLgPlf.png)
 
 ## Phase-2
 
