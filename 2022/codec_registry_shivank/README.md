@@ -96,7 +96,7 @@ and there documentation in research file.
 ## Week 9 & 10
 * Created a python script `main.py` for registry to perform the following operations:
 - Search a codec in remote registry.
-- If codec is not present in remote registry, script will redirect the user to the [link].(https://alt-shivam.github.io/Codecs-Registry/Others/AddNewCodec.html)
+- If codec is not present in remote registry, script will redirect the user to the [link](https://alt-shivam.github.io/Codecs-Registry/Others/AddNewCodec.html).
 - If codec is present in remote registry, script will display inforamtion `CodecID`,`CodecDescription`,`LastUpdate`,`Type` and `CodecResearch` file link.
 
 ## Week 11 & 12
