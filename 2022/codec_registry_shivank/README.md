@@ -94,16 +94,16 @@ and there documentation in research file.
 * Defined a CodecID Naming Convention for codecs without codecIDs. [Link](https://alt-shivam.github.io/Codecs-Registry/Others/CodecID_Naming_Convention.html)
 
 ## Week 9 & 10
-* Created a python script `main.py` for registry to perform the fillowing operations.
+* Created a python script `main.py` for registry to perform the following operations:
 - Search a codec in remote registry.
-- If codec not present in remote registry, script will redirect the user to [Link](https://alt-shivam.github.io/Codecs-Registry/Others/AddNewCodec.html)
+- If codec is not present in remote registry, script will redirect the user to the [link].(https://alt-shivam.github.io/Codecs-Registry/Others/AddNewCodec.html)
 - If codec is present in remote registry, script will display inforamtion `CodecID`,`CodecDescription`,`LastUpdate`,`Type` and `CodecResearch` file link.
 
 ## Week 11 & 12
 * Created `Example.json` file to store the examples of codecs. [Link]()
 * Added support of `Example.json` file to `main.py` python program to show the examples to users.
-* Added a guide `How to run and use python script` on offical website. [Link](https://alt-shivam.github.io/Codecs-Registry/Others/PythonParser.html)
-* Migerated Registry repo to officail zarr-developers.
+* Added a guide `How to run and use python script` on official website. [Link](https://alt-shivam.github.io/Codecs-Registry/Others/PythonParser.html)
+* Migrated Registry repo to official [zarr-developers](https://github.com/zarr-developers/).
 * Links and minor fixes.
 
 
