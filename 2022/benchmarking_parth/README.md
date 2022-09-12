@@ -70,3 +70,18 @@ Mentor's Review: ![](https://i.imgur.com/JTLgPlf.png)
 
 ## Week 8:
 - Testing of Zarr's major release is going on.
+- Created the new environment for the creation module.
+
+## Week 9:
+- Ran the benchmarks on the new environment. 
+- Ran the benchmarks for all the commits. (Creation)
+
+## Week 10: 
+- Compared the new graphs with previous ones. 
+- Ran and checked the benchmarks for all the versions.
+
+## Week 11 & 12:
+- Completed the creation module.
+- Started off with convenience module and completed it for the `open` function. 
+
+## Final Evaluations 🎉
