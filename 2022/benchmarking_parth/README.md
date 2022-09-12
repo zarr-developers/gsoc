@@ -10,6 +10,9 @@
 - Medium: [parthxtripathi](https://medium.com/@parthxtripathi)
 - New Delhi, India (GMT +5:30)
 
+# Google Summer Of Code work:
+- [Project Work](https://github.com/parthxtripathi/zarr-python/tree/master/Benchmark)
+
 # Project Information:
 - **Project Idea:** Zarr is a format for the storage of chunked, compressed, N-dimensional arrays that is inspired by HDF5, h5py and bcolz and depends on NumPy. This project works on the implementation of benchmarking in Zarr using Airspeed Velocity(ASV) in order to catch any changes that introduce a performance regression.
 - **Project Length:** 175 hours
