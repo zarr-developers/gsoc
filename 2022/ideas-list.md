@@ -329,7 +329,7 @@ We also have other project ideas that contributors could work on. They are liste
 You can check the description of these additional projects in the aforementioned issues.
 
 
-We encourage interested contributors to go through the above-mentioned projects and check them out. If any of the projects seem interesting to you and you want to spend your summer working on contributing to one of the important and cool open-source projects please feel free to reach out to [Sanket Verma](mailto:svsanketverma5@gmail.com) or [Josh Moore](mailto:j.a.moore@dundee.ac.uk).
+We encourage interested contributors to go through the above-mentioned projects and check them out. If any of the projects seem interesting to you and you want to spend your summer working on contributing to one of the important and cool open-source projects please feel free to reach out to [Sanket Verma](mailto:svsanketverma5@gmail.com) or [Josh Moore](mailto:josh@openmicroscopy.org).
 
 You can also join the community discussion at our [Gitter channel](https://gitter.im/zarr-developers/community).
 
