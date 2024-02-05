@@ -102,8 +102,8 @@ High
 > Related Links 🔗
 
 - Zarr-Python issues
-	- from 2020: https://github.com/zarr-developers/zarr-python/issues/547
-	- from 2020: https://github.com/zarr-developers/zarr-python/issues/536
+    - from 2020: https://github.com/zarr-developers/zarr-python/issues/547
+    - from 2020: https://github.com/zarr-developers/zarr-python/issues/536
 - 2021: https://github.com/pangeo-forge/pangeo-forge-recipes/issues/89
 - https://github.com/martindurant/async-zarr
 - https://github.com/scalableminds/zarrita/blob/async/zarrita/store.py 
