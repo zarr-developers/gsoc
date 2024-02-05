@@ -16,7 +16,7 @@ This guide illustrates a few steps that’ll help you get acquainted with Zarr:
 - Check out the [contributing guide](https://zarr.readthedocs.io/en/stable/contributing.html) and set up the development environment.
 - Check out the Zarr tutorials [here](https://zarr.readthedocs.io/en/stable/tutorial.html) and run some examples.
 - Check out the [docs](https://zarr.readthedocs.io/en/stable/genindex.html) for detailed info.
-- Additionally, go through the [Zarr Storage Specification V2](https://zarr.readthedocs.io/en/stable/spec/v2.html). This document provides a technical specification of the protocol and format used for storing Zarr arrays.
+- Additionally, go through the Zarr Storage Specifications [V2](https://zarr-specs.readthedocs.io/en/latest/v2/v2.0.html) and [V3](https://zarr-specs.readthedocs.io/en/latest/v3/core/v3.0.html). These document provides a technical specification of the protocol and format used for storing Zarr arrays.
 
 You can start by going through the issues labelled as [‘help wanted'](https://github.com/zarr-developers/zarr-python/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen) and submit a PR.
 
