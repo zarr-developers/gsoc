@@ -60,8 +60,8 @@ Medium
 
 > Potential Mentors 😇
 
-[Vincent Immler](mailto:vincent.immler@oregonstate.edu)
-[Akshay Subramaniam](mailto:asubramaniam@nvidia.com)
+- [Vincent Immler](mailto:vincent.immler@oregonstate.edu)
+- [Akshay Subramaniam](mailto:asubramaniam@nvidia.com)
 
 ## Project Idea II - Low-Latency Optimizations
 
@@ -98,8 +98,8 @@ High
 
 > Potential Mentors 😇
 
-[Vincent Immler](mailto:vincent.immler@oregonstate.edu)
-[Akshay Subramaniam](mailto:asubramaniam@nvidia.com)
+- [Vincent Immler](mailto:vincent.immler@oregonstate.edu)
+- [Akshay Subramaniam](mailto:asubramaniam@nvidia.com)
 
 > Related Links 🔗
 
