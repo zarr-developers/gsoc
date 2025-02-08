@@ -1,4 +1,4 @@
-# ⚡️ GSoC 2024 Project Ideas ⚡️
+# ⚡️ GSoC 2025 Project Ideas ⚡️
 
 ---
 
@@ -108,5 +108,5 @@ High
     - from 2020: https://github.com/zarr-developers/zarr-python/issues/536
 - 2021: https://github.com/pangeo-forge/pangeo-forge-recipes/issues/89
 - https://github.com/martindurant/async-zarr
-- https://github.com/scalableminds/zarrita/blob/async/zarrita/store.py 
-- https://github.com/scalableminds/zarrita/blob/async/zarrita/store.py 
+- https://github.com/scalableminds/zarrita/blob/async/zarrita/store.py
+- https://github.com/scalableminds/zarrita/blob/async/zarrita/store.py
